@@ -1,5 +1,5 @@
 function executar() {
-    let vetor = [];
+    const vetor = [];
 
     let n = parseFloat(document.querySelector("#numero").value);
     for (let i = 1; i <= n; i++) {
